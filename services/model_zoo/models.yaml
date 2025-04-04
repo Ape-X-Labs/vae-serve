@@ -1,0 +1,9 @@
+vae:
+  - name: wan2.1-t2v-14b
+    repo_id: Wan-AI/Wan2.1-T2V-14B-Diffusers
+    directory: vae
+text_encoder:
+  - name: wan2.1-t2v-14b
+    repo_id: Wan-AI/Wan2.1-T2V-14B-Diffusers
+    directory: text_encoder
+
